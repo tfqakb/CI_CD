@@ -1,0 +1,15 @@
+langchain
+streamlit
+python-dotenv
+scikit-learn
+pandas
+numpy
+matplotlib
+keras
+tensorflow
+uvicorn
+requests
+fastapi
+Flask
+nltk
+flasgger
