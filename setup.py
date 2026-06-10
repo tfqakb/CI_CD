@@ -20,7 +20,8 @@ install_requires=[
     "fastapi",
     "Flask",
     "nltk",
-    "flasgger"
+    "flasgger",
+    "pytest"
 ],
 packages=find_packages()
 
